@@ -1,10 +1,19 @@
 package com.skilldistillery.app;
 
+import java.util.Scanner;
+
 public class MakeChange {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
 
+		
+		
+		
+		scanner.close();
+	}
+	public void menu() {
+		//create user menu
 	}
 
 }
