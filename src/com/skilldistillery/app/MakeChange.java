@@ -52,7 +52,7 @@ public class MakeChange {
 			break;
 
 		default:
-			System.out.println("Invalid choice, would you like to make a purchase? y/n");
+			System.out.println("Invalid choice.");
 			customerYesNo(scanner);
 			break;
 		}
